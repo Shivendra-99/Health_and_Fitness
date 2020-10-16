@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Health and Fitness</string>
+    <string name="welcome_to_the_app">Welcome to The App</string>
+    <string name="enter_the_email">Enter The Email</string>
+    <string name="enter_the_password">Enter the Password</string>
+    <string name="log_in">Log in</string>
+</resources>
